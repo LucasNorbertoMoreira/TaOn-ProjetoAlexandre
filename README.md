@@ -1,6 +1,6 @@
 # 🟢 TáOn? | Uptime Monitor Micro-SaaS
 
-> O seu site caiu e o seu cliente foi embora. O TáOn? avisa-o no WhatsApp antes que perceba.
+> O seu site caiu e o seu cliente foi embora. O TáOn? te avisa no WhatsApp antes que perceba.
 
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-green)
 ![Versão](https://img.shields.io/badge/Version-1.0.0-blue)
